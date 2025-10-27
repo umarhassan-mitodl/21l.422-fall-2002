@@ -10,7 +10,7 @@ ocw_type: CourseSection
 title: Readings
 uid: e3be68ba-d475-cfaa-c2a5-8f4e852c3440
 ---
-Downloadable versions of excerpts from some of the readings used in the course are available below, as well as links to downloadable full versions of many readings from the [Project Gutenberg](http://www.gutenbergnews.org/) site.
+Downloadable versions of excerpts from some of the readings used in the course are available below, as well as links to downloadable full versions of many readings from the {{% resource_link "f319fdb9-c262-40fe-bb41-362b6eda8758" "Project Gutenberg" %}} site.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LEC #
@@ -65,7 +65,7 @@ Frye, Northrop. excerpt from *Anatomy of Criticism*.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
-Shakespeare. *King Lear*. ([download from Project Gutenberg](http://www.gutenberg.org/etext/2266))
+Shakespeare. *King Lear*. ({{% resource_link "460d4e03-d4da-4f3e-be25-5aebc5fab71a" "download from Project Gutenberg" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
@@ -73,7 +73,7 @@ Shakespeare. *King Lear.* (continued)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
-Shakespeare. *Macbeth*. ([download from Project Gutenberg](http://www.gutenberg.org/etext/2264))
+Shakespeare. *Macbeth*. ({{% resource_link "d52fdc10-1679-4754-b1d9-4cf27f7ac877" "download from Project Gutenberg" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
@@ -81,7 +81,7 @@ Shakespeare. *Macbeth.* (continued)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
-Balzac. *Père Goriot*. ([download from Project Gutenberg](http://www.gutenberg.org/etext/1237))
+Balzac. *Père Goriot*. ({{% resource_link "150e4904-d7f8-4e21-9200-a06ba7397fa8" "download from Project Gutenberg" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
@@ -101,7 +101,7 @@ Melville, Herman. *Benito Cerino.* (continued)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
 {{< tdclose >}}{{< tdopen >}}
-Ibsen, Henrik. *A Doll's House*. ([download from Project Gutenberg](http://www.gutenberg.org/etext/2542))
+Ibsen, Henrik. *A Doll's House*. ({{% resource_link "78a0f1f8-a766-4a4d-a19d-3686a60bb758" "download from Project Gutenberg" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
@@ -109,7 +109,7 @@ Ibsen, Henrik. *A Doll's House.* (continued.)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
 {{< tdclose >}}{{< tdopen >}}
-Conrad, Joseph. *Heart of Darkness*. ([download from Project Gutenberg](http://www.gutenberg.org/etext/526))
+Conrad, Joseph. *Heart of Darkness*. ({{% resource_link "0c04a75b-e849-42dd-b60c-f12ddb2a3c1d" "download from Project Gutenberg" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
